@@ -51,6 +51,8 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
+test new fork
+
 
 
 
