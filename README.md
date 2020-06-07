@@ -12,7 +12,7 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * TensorFlow Lite
 * TensorFlow.js
 * Tidying up the API
-* The conversion tool
+* The Conversion Tool
 * Alternative variable scoping
   
 
