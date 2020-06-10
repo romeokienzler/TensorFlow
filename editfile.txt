@@ -1,1 +1,2 @@
 "#editfile" 
+Testing the comparison feature
