@@ -15,7 +15,7 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * The conversion tool
 * Alternative variable scoping
   
-
+I'm Uchiha Obito
 ## Eager Execution
 
 
