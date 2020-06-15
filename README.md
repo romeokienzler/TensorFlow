@@ -46,14 +46,14 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 ### Tasks
 
-1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
+1. [Watch me coding]  (https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
+2. [Code yourself]  (https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
 
 
 
 
-This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
+This material is constantly updated for you, so stay tuned! .... (e.g. this means that the rest of the chapters are currently be written :D
 
