@@ -1,4 +1,4 @@
-# What's new in TensorFlow 2.0
+# What is new in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
@@ -23,7 +23,7 @@ Lack of eager execution was one of the main complaints against TensorFlow. We al
 
 With TensorFlow 2.0, eager execution is activated by default and the very cool thing is that the code nearly doesn't change. Under the hood, you are just working with so-called "EagerTensors" instead of "Tensors" but since they share the same interface, the difference is barely noticeable. Even in execution speed, the difference is hard to see. 
 
-This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using numpy for example). This is one aspect of making TensorFlow more pythonic.
+This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using Numpy for example). This is one aspect of making TensorFlow more pythonic.
 
 Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
@@ -55,5 +55,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 
-This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
+This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D)
+
 
