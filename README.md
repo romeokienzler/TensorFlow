@@ -1,4 +1,5 @@
-# What's new in TensorFlow 2.0
+"
+# What's New in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
@@ -27,7 +28,7 @@ This means, from now on, TensorFlow code can be used and debugged as ordinary py
 
 Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
-### Tasks
+### TASKS
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
