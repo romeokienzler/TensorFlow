@@ -1,3 +1,4 @@
+
 # What's new in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
@@ -14,6 +15,27 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
+
+# How to Install TensorFlow with pip:
+TensorFlow 2 packages are available
+    * tensorflow —Latest stable release with CPU and GPU support (Ubuntu and Windows)
+    * tf-nightly —Preview build (unstable). Ubuntu and Windows include GPU support.
+
+Older versions of TensorFlow
+For TensorFlow 1.x, CPU and GPU packages are separate:
+    * tensorflow==1.15 —Release for CPU-only
+    * tensorflow-gpu==1.15 —Release with GPU support (Ubuntu and Windows)
+
+System requirements
+    * Python 3.5–3.8
+        * Python 3.8 support requires TensorFlow 2.2 or later.
+    * pip 19.0 or later (requires manylinux2010 support)
+    * Ubuntu 16.04 or later (64-bit)
+    * macOS 10.12.6 (Sierra) or later (64-bit) (no GPU support)
+    * Windows 7 or later (64-bit)
+        * Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
+    * Raspbian 9.0 or later
+    * GPU support requires a CUDA®-enabled card (Ubuntu and Windows)
   
 
 ## Eager Execution
