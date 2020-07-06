@@ -1,5 +1,5 @@
 # What's new in TensorFlow 2.0
-
+# Github for dummies, good job. It's easy to learn. Thanks for your effort.
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
 * Eager Execution / tf.function
