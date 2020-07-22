@@ -1,3 +1,4 @@
+Hi, Thank you for teaching this amazing course on Coursera. I am so excited about github and learning all the commands! It is great. 
 # What's new in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
