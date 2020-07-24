@@ -56,5 +56,3 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
-123456
-
