@@ -29,7 +29,7 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 ### Tasks
 
-1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
+1. [Watch me code](https://www.youtube.com/watch?v=J3_b4461qxU)
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
@@ -46,7 +46,7 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 ### Tasks
 
-1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
+1. [Watch me code](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
