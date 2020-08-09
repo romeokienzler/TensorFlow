@@ -1,25 +1,26 @@
 # What's new in TensorFlow 2.0
 
+
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
-* Eager Execution / tf.function
-* Integration of the Keras API
-* Facilitated distributed training
-* TF Data
-* TF SavedModel
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
-* TensorFlow.js
-* Tidying up the API
-* The conversion tool
-* Alternative variable scoping
+1.  Eager Execution / tf.function
+2.  Integration of the Keras API
+3.  Facilitated distributed training
+4.  TF Data
+5.  TF SavedModel
+6.  TensorFlow Hub
+7.  TensorFlow Serving
+8.  TensorFlow Lite
+9.  TensorFlow.js
+10. Tidying up the API
+11. The conversion tool
+12. Alternative variable scoping
   
 
 ## Eager Execution
 
 
-Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
+	Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
 
 With TensorFlow 2.0, eager execution is activated by default and the very cool thing is that the code nearly doesn't change. Under the hood, you are just working with so-called "EagerTensors" instead of "Tensors" but since they share the same interface, the difference is barely noticeable. Even in execution speed, the difference is hard to see. 
 
