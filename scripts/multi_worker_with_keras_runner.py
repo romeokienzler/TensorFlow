@@ -3,7 +3,7 @@ import os
 import threading
 
 
-node_str = sys.stdin.read().replace("\n","")
+node_str = sys.stdin.read().replace("\n \n","")
 nodes = node_str.split(' ')
 first = True
 node_string = ""
