@@ -53,7 +53,8 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 
-
+### Changes that probably shouldn't be accepted
+[Wise words](https://www.youtube.com/watch?v=cAy4zULKFDU)
 
 This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
 
