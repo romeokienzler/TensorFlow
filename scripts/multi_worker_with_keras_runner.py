@@ -1,3 +1,5 @@
+# python scrip for  parallel processing
+
 import sys
 import os
 import threading
