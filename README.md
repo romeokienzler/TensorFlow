@@ -15,6 +15,7 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * The conversion tool
 * Alternative variable scoping
   
+##Suggestion - would be great to have a little more detail on the changes and why they were made.
 
 ## Eager Execution
 
