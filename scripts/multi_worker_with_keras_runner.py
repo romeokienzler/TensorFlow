@@ -1,7 +1,7 @@
 import sys
 import os
 import threading
-
+# I changed something here
 
 node_str = sys.stdin.read().replace("\n","")
 nodes = node_str.split(' ')
