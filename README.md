@@ -1,6 +1,6 @@
 # What's new in TensorFlow 2.x
 
-The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
+The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
 * Integration of the Keras API
@@ -53,7 +53,5 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 
-
-
-This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
+If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
