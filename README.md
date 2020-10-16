@@ -14,7 +14,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
-  
+
 
 ## Eager Execution
 
@@ -25,14 +25,14 @@ With TensorFlow 2.0, eager execution is activated by default and the very cool t
 
 This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using numpy for example). This is one aspect of making TensorFlow more pythonic.
 
-Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
+Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself, since it will definitely help you internalize the material.
 
 ### Tasks
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb)
 
 ## Integration of the Keras API
 
@@ -49,9 +49,8 @@ For now, just follow along the video and code exercise below to get an idea how 
 1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
+2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb)
 
 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
-
