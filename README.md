@@ -1,3 +1,4 @@
+I am practicing for my coursera course and making this edit! :)
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
