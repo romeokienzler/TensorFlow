@@ -55,3 +55,11 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+
+Agregado por Silvia Jara:
+
+TensorFlow es una plataforma de código abierto de extremo a extremo para el aprendizaje automático. 
+Cuenta con un ecosistema integral y flexible de herramientas, bibliotecas y recursos de la comunidad 
+que les permite a los investigadores impulsar un aprendizaje automático innovador y, a los desarrolladores, 
+compilar e implementar con facilidad aplicaciones con tecnología de AA.
+
