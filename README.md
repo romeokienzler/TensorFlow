@@ -31,6 +31,10 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
+Agregado por Silvia Jara
+
+TensorFlow es una plataforma de código abierto de extremo a extremo para el aprendizaje automático. Cuenta con un ecosistema integral y flexible de herramientas, bibliotecas y recursos de la comunidad que les permite a los investigadores impulsar un aprendizaje automático innovador y, a los desarrolladores, compilar e implementar con facilidad aplicaciones con tecnología de AA.
+
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
 
