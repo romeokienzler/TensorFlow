@@ -1,4 +1,4 @@
-Makinf changes in readme.md file.
+Making changes in readme.md file.
 
 # What's new in TensorFlow 2.x
 
