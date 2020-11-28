@@ -1,4 +1,4 @@
-# What is new in TensorFlow 2.x
+# What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
@@ -14,7 +14,8 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
-  
+
+I'M ADDING THIS LINE IN TO PROVE I DID THE WORK  
 
 ## Eager Execution
 
