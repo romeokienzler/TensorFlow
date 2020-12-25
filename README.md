@@ -16,7 +16,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Alternative variable scoping
   
 
-## Eager Execution
+## Eager execution
 
 
 Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
@@ -40,7 +40,7 @@ Actually, Keras is one of the greatest APIs on the planet for DeepLearning. Now 
 
 So you might think, so what? Just some imports change. But this is only one part of the story. Yes, the imports changed, and as you can see later in the example, you can basically leave your existing Keras code intact most of the times and just change the import and you are done.
 
-But in addition, Keras now can make use of built-in TensorFlow functionality which wasn't possible before. For example, you can take your 1:1 Keras code and TensorFlow will scale it to a large GPU or TPU cluster. We'll have a look at this in the next chapter.
+But in addition, Keras now can make use of built-in TensorFlow functionality which wasn't possible before. For example, you can take your 1:1 Keras code and TensorFlow will scale it to a large GPU or TPU cluster. We'll have a look at this in the Next Chapter.
 
 For now, just follow along the video and code exercise below to get an idea how things work:
 
