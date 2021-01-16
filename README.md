@@ -1,3 +1,4 @@
+s README.md file has been minimally edited by Roe. Nothing much changed.
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
