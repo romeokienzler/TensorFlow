@@ -2,6 +2,7 @@ import sys
 import os
 import threading
 
+/* test editing only under coursera course thank you */
 
 node_str = sys.stdin.read().replace("\n","")
 nodes = node_str.split(' ')
