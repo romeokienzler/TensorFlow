@@ -44,7 +44,7 @@ But in addition, Keras now can make use of built-in TensorFlow functionality whi
 
 For now, just follow along the video and code exercise below to get an idea how things work:
 
-### Tasks
+### Tasks:
 
 1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
