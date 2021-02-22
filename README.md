@@ -14,7 +14,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
-  
+**** This is my change. Part of the IBM data science lab.I think I can do this. it seems quite easy yet interesting at the same time.
 
 ## Eager Execution
 
