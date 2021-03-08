@@ -27,6 +27,7 @@ This means, from now on, TensorFlow code can be used and debugged as ordinary py
 
 Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
+
 ### Tasks
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
@@ -43,6 +44,7 @@ So you might think, so what? Just some imports change. But this is only one part
 But in addition, Keras now can make use of built-in TensorFlow functionality which wasn't possible before. For example, you can take your 1:1 Keras code and TensorFlow will scale it to a large GPU or TPU cluster. We'll have a look at this in the next chapter.
 
 For now, just follow along the video and code exercise below to get an idea how things work:
+
 
 ### Tasks
 
