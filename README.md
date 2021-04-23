@@ -1,4 +1,4 @@
-# what's new in TensorFlow 2.x.x
+# what's new in TensorFlow 2.x.x.y
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
