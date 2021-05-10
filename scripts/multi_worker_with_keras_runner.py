@@ -21,10 +21,10 @@ for i, node in enumerate(nodes):
     
     def thread_function(command):
         os.system(command)
-
+    # creating a new thread
     thread = threading.Thread(target=thread_function, args=(command,))
 
-
+    # starting the newly created thread
     thread.start()
 thread.join()
 
