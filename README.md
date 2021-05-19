@@ -33,6 +33,7 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+Eventually, after a few more courses I'll be experimenting with TensorFlow and accessing data sets on kaggle (and IBM Watson)
 
 ## Integration of the Keras API
 
