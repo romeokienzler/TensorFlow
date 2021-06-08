@@ -1,4 +1,5 @@
 # What's new in TensorFlow 2.x
+# THIS LINE WAS ADDED FOR PRACTICE PURPOSES ONLY - Learning how to contribute to a repo- fork and pull.
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
