@@ -2,6 +2,8 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
+I am adding an edit to fork and pull request on this change
+
 * Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
