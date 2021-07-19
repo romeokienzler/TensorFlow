@@ -55,3 +55,7 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+
+## Facilitated distributed training
+
+TensorFlow API allow distribute training across multiple GPUs, multiple machines or TPUs. Using this API, you can distribute your existing models and training code with minimal code changes.
