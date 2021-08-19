@@ -33,6 +33,7 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+quick cat jumped over the lazy fox
 
 ## Integration of the Keras API
 
@@ -55,3 +56,4 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+The quick cat jumped over the lazy fox
