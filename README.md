@@ -1,7 +1,6 @@
 # What's new in TensorFlow 2.x
-# JFW Fork 202010823
-# Local change to readme.  Should push to git hub.
-# Change made on GitHub.com
+#
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
