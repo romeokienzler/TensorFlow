@@ -17,7 +17,8 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
   
 
 ## Eager Execution
-
+## This all sounds very formal and then here I am modifying thigs 
+## just to see how they work
 
 Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
 
