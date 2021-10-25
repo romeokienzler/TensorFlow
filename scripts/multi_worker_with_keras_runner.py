@@ -11,7 +11,7 @@ for node in nodes:
     if not first:
         node_string += ','
     node_string += '"' + node + ':12345"'
-    first = False
+    first = True
 
 for i, node in enumerate(nodes):
     config = ('TF_CONFIG='+'\'"\'"\'{"cluster": {"worker": ['+node_string+']}, "task": {"index": '+str(i)+', "type": "worker"}}\'"\'"\'')
