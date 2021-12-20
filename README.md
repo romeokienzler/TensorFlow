@@ -1,4 +1,5 @@
 # What's new in TensorFlow 2.x
+TensorFlow 2.0 was released in 2019, with tight integration of Keras, eager execution by default, and Pythonic function execution, among other new features and improvements.
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
