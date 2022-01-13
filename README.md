@@ -1,3 +1,5 @@
+This was branched per a Coursera course. Since the course instructed us to do so on GitHub, it meets the Coursera Honor Code exception.
+
 # What's New in TensorFlow 2.x?
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
