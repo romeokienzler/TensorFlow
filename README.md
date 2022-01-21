@@ -1,6 +1,4 @@
 Making some changes in README.md file
-Making some changes in README.md file
-Making some changes in README.md file
 
 # What's new in TensorFlow 2.x.
 
