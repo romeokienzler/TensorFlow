@@ -1,5 +1,7 @@
 # What's new in TensorFlow 2.x
 
+#Edit by Hamid Asady, jkust for example, it is a good task and on hand practice
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
