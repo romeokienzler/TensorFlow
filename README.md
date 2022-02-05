@@ -55,3 +55,4 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+Makinga small change for Lab 3 I'm sorry I'm so lost
