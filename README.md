@@ -2,18 +2,18 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
-* Eager Execution / tf.function
-* Integration of the Keras API
-* Facilitated distributed training
-* TF Data
-* TF SavedModel
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
-* TensorFlow.js
-* Tidying up the API
-* The conversion tool
-* Alternative variable scoping
+1. Eager Execution / tf.function
+2. Integration of the Keras API
+3. Facilitated distributed training
+4. TF Data
+5. TF SavedModel
+6. TensorFlow Hub
+7. TensorFlow Serving
+8. TensorFlow Lite
+9. TensorFlow.js
+10. Tidying up the API
+11. The conversion tool
+12. Alternative variable scoping
   
 
 ## Eager Execution
