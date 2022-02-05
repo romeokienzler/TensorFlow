@@ -1,3 +1,4 @@
+I an editing the file just for the sake of htis one assignment. I need to get more used to the ways that vi works as opposed to vim. 
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
