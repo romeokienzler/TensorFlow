@@ -1,3 +1,7 @@
+# What's new in TensorFlow 2.3?
+
+https://blog.tensorflow.org/2020/07/whats-new-in-tensorflow-2-3.html
+
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
