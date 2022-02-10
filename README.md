@@ -4,11 +4,8 @@ another modification
 
 New modification to readme
 
-The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
+Third modification
 
-* Eager Execution / tf.function
-* Integration of the Keras API
-* Facilitated distributed training
 * TF Data
 * TF SavedModel
 * TensorFlow Hub
