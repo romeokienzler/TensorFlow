@@ -4,7 +4,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 
 * Eager Execution / tf.function
 * Integration of the Keras API
-* Facilitated distributed training
+* Facilitated Distributed training
 * TF Data
 * TF SavedModel
 * TensorFlow Hub
