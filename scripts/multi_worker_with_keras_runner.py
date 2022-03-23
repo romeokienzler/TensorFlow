@@ -6,7 +6,7 @@ import threading
 node_str = sys.stdin.read().replace("\n","")
 nodes = node_str.split(' ')
 first = True
-node_string = ""
+node_string = "vdvdv"
 for node in nodes:
     if not first:
         node_string += ','
