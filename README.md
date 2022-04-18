@@ -2,7 +2,7 @@ Made changes to README.md file
 
 # What's new in TensorFlow 2.x
 
-The following are changes coming in TensorFlow 2.x. Let us have a closer look at them:
+The following changes are coming in TensorFlow 2.x. Let us have a closer look at them:
 
 * Eager Execution / tf.function
 * Integration of the Keras API
