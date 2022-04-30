@@ -32,7 +32,8 @@ Below there are two tasks. I highly recommend doing them because while watching 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb)
+ 
 
 ## Integration of the Keras API
 
