@@ -1,6 +1,12 @@
-# What's new in TensorFlow 2.x
+<<<<<<< HEAD
+CHANGES:
+changes by DP
+The following are all the changes coming in TensorFlow 2.x by DP. Let's have a closer look at them:
+=======
+# What's new in TensorFlow 2.x by DP
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
+>>>>>>> 837caedf1173df25fc29152e4314254f97cecc94
 
 * Eager Execution / tf.function
 * Integration of the Keras API
