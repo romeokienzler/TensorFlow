@@ -2,7 +2,7 @@ import sys
 import os
 import threading
 
-
+print("Hello everyone. Enjoying this course?")
 node_str = sys.stdin.read().replace("\n","")
 nodes = node_str.split(' ')
 first = True
@@ -18,7 +18,7 @@ for i, node in enumerate(nodes):
     print(node)
     command = 'ssh '+node+" 'conda activate wmlce-ea;"+config+";python multi_worker_with_keras_numpyArrays.py'"
     print(command)
-    
+
     def thread_function(command):
         os.system(command)
 
@@ -27,4 +27,3 @@ for i, node in enumerate(nodes):
 
     thread.start()
 thread.join()
-
