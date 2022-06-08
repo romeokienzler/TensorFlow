@@ -16,8 +16,8 @@ for node in nodes:
 for i, node in enumerate(nodes):
     config = ('TF_CONFIG='+'\'"\'"\'{"cluster": {"worker": ['+node_string+']}, "task": {"index": '+str(i)+', "type": "worker"}}\'"\'"\'')
     print(node)
-    command = 'ssh '+node+" 'conda activate wmlce-ea;"+config+";python multi_worker_with_keras_numpyArrays.py'"
-    print(command)
+    #command = 'ssh '+node+" 'conda activate wmlce-ea;"+config+";python multi_worker_with_keras_numpyArrays.py'"
+    print(f"ssh {node} 'conda activate wmlce-ea;{config};python multi_worker_with_keras_numpyArrays.py'")
     
     def thread_function(command):
         os.system(command)
