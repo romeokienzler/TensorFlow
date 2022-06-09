@@ -1,5 +1,5 @@
 # What's new in TensorFlow 2.x
-
+# Hello, don't mind me just following through with the Lab exercise for "Tools for Data Science"
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
