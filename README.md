@@ -2,21 +2,21 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
-* Eager Execution / tf.function
-* Integration of the Keras API
-* Facilitated distributed training
-* TF Data
-* TF SavedModel
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
-* TensorFlow.js
-* Tidying up the API
-* The conversion tool
-* Alternative variable scoping
+* Eager Execution / tf.function;
+* Integration of the Keras API;
+* Facilitated distributed training;
+* TF Data;
+* TF SavedModel;
+* TensorFlow Hub;
+* TensorFlow Serving;
+* TensorFlow Lite;
+* TensorFlow.js;
+* Tidying up the API;
+* The conversion tool;
+* Alternative variable scoping.
   
 
-## Eager Execution
+## Eager Execution.
 
 
 Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
@@ -25,16 +25,16 @@ With TensorFlow 2.0, eager execution is activated by default and the very cool t
 
 This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using numpy for example). This is one aspect of making TensorFlow more pythonic.
 
-Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
+Below, there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
-### Tasks
+### Tasks:
 
-1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
+1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU);
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb). 
 
-## Integration of the Keras API
+## Integration of the Keras API.
 
 Actually, Keras is one of the greatest APIs on the planet for DeepLearning. Now Keras has been eaten up by TensorFlow. A bit sad, but in reality it doesn't make any difference since nearly everyone used Keras on top of TensorFlow anyway. So let's consider Keras to be part of TensorFlow (or TensorFlow to be part of Keras). The cool thing is, that you now can use the straightforward, and easy to use Keras API and still can claim to be a TensorFlow developer. Yeah, Google made Keras the official high level API of TensorFlow.
 
@@ -44,14 +44,14 @@ But in addition, Keras now can make use of built-in TensorFlow functionality whi
 
 For now, just follow along the video and code exercise below to get an idea how things work:
 
-### Tasks
+### Tasks:
 
-1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
-
-
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
+1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y);
 
 
+2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb).
 
-If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
+
+
+If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/).
 
