@@ -2,6 +2,8 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
+	*YUSUFF AFEEZ OLUWATOBI THE MAN OF GOD*
+
 * Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
