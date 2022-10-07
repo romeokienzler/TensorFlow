@@ -1,4 +1,4 @@
-# What's new in TensorFlow 2.x
+# What is new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
@@ -31,7 +31,6 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
-
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
 
 ## Integration of the Keras API
@@ -47,7 +46,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 ### Tasks
 
 1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
-
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
