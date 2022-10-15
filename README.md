@@ -16,7 +16,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Alternative variable scoping
   
 
-## Eager Execution
+## Eager Execution:
 
 
 Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
@@ -27,7 +27,7 @@ This means, from now on, TensorFlow code can be used and debugged as ordinary py
 
 Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
-### Tasks
+### Tasks:
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
@@ -44,13 +44,12 @@ But in addition, Keras now can make use of built-in TensorFlow functionality whi
 
 For now, just follow along the video and code exercise below to get an idea how things work:
 
-### Tasks
+### Tasks:
 
 1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
-
 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
