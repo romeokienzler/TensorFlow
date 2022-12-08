@@ -13,8 +13,8 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * TensorFlow.js
 * Tidying up the API
 * The conversion tool
-* Alternative variable scoping
-  
+* ALTERNATIVE VARAIBLE SCOPING
+
 
 ## Eager Execution
 
