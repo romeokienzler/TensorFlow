@@ -42,6 +42,7 @@ So you might think, so what? Just some imports change. But this is only one part
 
 But in addition, Keras now can make use of built-in TensorFlow functionality which wasn't possible before. For example, you can take your 1:1 Keras code and TensorFlow will scale it to a large GPU or TPU cluster. We'll have a look at this in the next chapter.
 
+
 For now, just follow along the video and code exercise below to get an idea how things work:
 
 ### Tasks
