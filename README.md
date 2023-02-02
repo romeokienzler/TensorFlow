@@ -1,16 +1,16 @@
 # What's new in TensorFlow 2.x
 
-The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
+The following are all the changes coming in TensorFlow 4.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
 * Integration of the Keras API
-* Facilitated distributed training
+* Facilitated distributed training the dog
 * TF Data
 * TF SavedModel
 * TensorFlow Hub
 * TensorFlow Serving
 * TensorFlow Lite
-* TensorFlow.js
+* TensorFlow.jsnjjjnjjnjnjn
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
