@@ -1,3 +1,7 @@
+You can find the translation to Spanish below for a better undestanding
+Enjoy!
+
+############### English Version######################################################################################################################################################
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
@@ -55,3 +59,63 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+
+
+############################# SPANISH VERSION ###############################################################################
+
+# Novedades en TensorFlow 2.x
+
+Los siguientes son todos los cambios que vienen en TensorFlow 2.x. Echemos un vistazo más de cerca a ellos:
+
+* Ejecución ansiosa / tf.function
+* Integración de la API de Keras
+* Capacitación distribuida facilitada
+* Datos de TF
+* Modelo guardado TF
+* Centro TensorFlow
+* Servicio de TensorFlow
+* TensorFlow Lite
+* TensorFlow.js
+* Ordenar la API
+* La herramienta de conversión
+* Alcance variable alternativo
+  
+
+## Ejecución ansiosa
+
+
+La falta de ejecución entusiasta fue una de las principales quejas contra TensorFlow. Todos podemos relacionarnos. Tener que ejecutar todo el gráfico y luego tratar de depurar en función de los errores fue muy tedioso. Especialmente, dado que los valores de los resultados intermedios no han sido accesibles sin imprimirlos mezclando declaraciones de depuración en el código de producción.
+
+Con TensorFlow 2.0, la ejecución ansiosa está activada de manera predeterminada y lo mejor es que el código casi no cambia. Debajo del capó, solo está trabajando con los llamados "EagerTensors" en lugar de "Tensors", pero dado que comparten la misma interfaz, la diferencia apenas se nota. Incluso en la velocidad de ejecución, la diferencia es difícil de ver.
+
+Esto significa que, de ahora en adelante, el código de TensorFlow se puede usar y depurar como un código de python normal (usando numpy, por ejemplo). Este es un aspecto de hacer que TensorFlow sea más pitónico.
+
+A continuación hay dos tareas. Recomiendo encarecidamente hacerlos porque mientras me ves codificando y codificando tú mismo definitivamente interiorizarás el material.
+
+### Tareas
+
+1. [Mírame programar](https://www.youtube.com/watch?v=J3_b4461qxU)
+
+
+2. [Codifíquese usted mismo](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb)
+
+## Integración de la API de Keras
+
+En realidad, Keras es una de las mejores API del planeta para DeepLearning. Ahora Keras ha sido devorado por TensorFlow. Un poco triste, pero en realidad no hace ninguna diferencia ya que casi todos usaron Keras además de TensorFlow de todos modos. Entonces, consideremos a Keras como parte de TensorFlow (o TensorFlow como parte de Keras). Lo bueno es que ahora puede usar la API Keras directa y fácil de usar y aún puede afirmar que es un desarrollador de TensorFlow. Sí, Google convirtió a Keras en la API oficial de alto nivel de TensorFlow.
+
+Así que podrías pensar, ¿y qué? Solo cambian algunas importaciones. Pero esto es sólo una parte de la historia. Sí, las importaciones cambiaron y, como puede ver más adelante en el ejemplo, básicamente puede dejar intacto su código Keras existente la mayoría de las veces y simplemente cambiar la importación y listo.
+
+Pero además, Keras ahora puede hacer uso de la funcionalidad integrada de TensorFlow que antes no era posible. Por ejemplo, puede tomar su código Keras 1:1 y TensorFlow lo escalará a un gran clúster de GPU o TPU. Echaremos un vistazo a esto en el próximo capítulo.
+
+Por ahora, solo siga el video y el ejercicio de código a continuación para tener una idea de cómo funcionan las cosas:
+
+### Tareas
+
+1. [Mírame programar](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
+
+
+2. [Codifíquese usted mismo](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb)
+
+
+
+Si desea obtener más información, consulte nuestro [libro] (https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
