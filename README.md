@@ -1,7 +1,10 @@
-You can find the translation to Spanish below for a better undestanding
+ Note: You can find the translation to Spanish below for a better undestanding
+
 Enjoy!
 
-############### English Version##########################################################################################################################
+----- English Version------
+
+
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
@@ -61,7 +64,7 @@ If you want to learn more, please have a look at our [book](https://learning.ore
 
 
 
-############################# SPANISH VERSION ###############################################################################
+----- Spanish Version------
 
 # Novedades en TensorFlow 2.x
 
