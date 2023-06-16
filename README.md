@@ -55,3 +55,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+### Additional
+
+I'm adding a new line at the end to test git repos addding function
